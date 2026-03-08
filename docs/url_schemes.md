@@ -9,6 +9,6 @@ The URL scheme is `wikipedia://`. The following URLs are currently handled:
 | Content            | wikipedia://content                      | wikipedia://content/on-this-day/wikipedia.org/en/2024/08/15                                         |
 | Explore            | wikipedia://explore                      |                                          |
 | History            | wikipedia://history                      |                                          |
-| Places             | wikipedia://places[?WMFArticleURL=]      | wikipedia://places/?WMFArticleURL=https://en.wikipedia.org/wiki/Dallas
-                                         |
+| Places             | wikipedia://places[?WMFArticleURL=]      | wikipedia://places/?WMFArticleURL=https://en.wikipedia.org/wiki/Dallas |
+| Places (coordinates) | wikipedia://places/?latitude=X&longitude=Y | wikipedia://places/?latitude=52.370216&longitude=4.895168 |
 | Saved pages        | wikipedia://saved                        |                                          |
